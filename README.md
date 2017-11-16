@@ -17,3 +17,4 @@ According to Google, a word cloud is an image composed of words used in a partic
 
 <b>3. Donald Trump - US President</b>
 
+![trump](https://user-images.githubusercontent.com/16416130/32888033-fc6b75fa-caeb-11e7-8a30-e73cfe833eed.png)
