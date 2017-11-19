@@ -20,3 +20,7 @@ According to Google, a word cloud is an image composed of words used in a partic
 ![trump](https://user-images.githubusercontent.com/16416130/32888033-fc6b75fa-caeb-11e7-8a30-e73cfe833eed.png)
 
 <b>Inference</b> : <b><i>President Trump</i></b> is in the <b><i>news</i></b> and people's comments suggest that he is a <b><i>swamp</i></b> and <b><i>fake</i></b> while some of them <b><i>like</i></b> him.
+
+<b>4. Hillary Clinton - American politician</b>
+
+![clinton](https://user-images.githubusercontent.com/16416130/32991750-9e0f6196-cd67-11e7-9a8e-a67823415fa1.png)
