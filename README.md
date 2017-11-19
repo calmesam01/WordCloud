@@ -7,16 +7,16 @@ According to Google, a word cloud is an image composed of words used in a partic
 
 ![modi_comments](https://user-images.githubusercontent.com/16416130/32728227-7d320b52-c8a5-11e7-9ac6-e9bb98b754d6.png)
 
-<b>Inference</b> : We infer from this wordcloud that Mr. Modi is liked by most of the country with most common words like <i>great, good, proud, love</i> etc.
+<b>Inference</b> : We infer from this wordcloud that Mr. Modi is liked by most of the country with most common words like <b><i>great, good, proud, love</i></b> etc.
 
 <b>2. Barack Obama - Ex US President</b>
 
 ![obama_wc](https://user-images.githubusercontent.com/16416130/32749171-7ee4a8c6-c8e4-11e7-8f08-90e8f588565e.png)
 
-<b>Inference</b> : We infer from this wordcloud that people of United States are  <i>thankful</i> for his <i>best service</i> and they <i>miss</i> him.
+<b>Inference</b> : We infer from this wordcloud that people of United States are <b><i>thankful</i></b> for his <b><i>best service</i></b> and they <b><i>miss</i></b> him.
 
 <b>3. Donald Trump - US President</b>
 
 ![trump](https://user-images.githubusercontent.com/16416130/32888033-fc6b75fa-caeb-11e7-8a30-e73cfe833eed.png)
 
-<b>Inference</b> : <i>President Trump</i> is in the <i>news</i> and people's comments suggests that he is a <i>swamp</i> and <i>fake</i> while some of them <i>like</i> him.
+<b>Inference</b> : <b><i>President Trump</i></b> is in the <b><i>news</i></b> and people's comments suggest that he is a <b><i>swamp</i></b> and <b><i>fake</i></b> while some of them <b><i>like</i></b> him.
